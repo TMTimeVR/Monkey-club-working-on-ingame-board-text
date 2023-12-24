@@ -1,5 +1,3 @@
 I am working on:
--A better anticheat,
--upgrading PlaFab and Photon,
--horror,
--and chistmas update.
+-Upgrading PlaFab and Photon,
+-and horror.
