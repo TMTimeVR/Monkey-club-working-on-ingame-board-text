@@ -1,1 +1,3 @@
-NAMES AND BUYING STUFF ARE STILL BUGGED OUT PLEASE WAIT FOR THE FIX UPDATE!
+I am working on:
+-Horror,
+-Fixing names.
